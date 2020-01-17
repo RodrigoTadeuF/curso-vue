@@ -1,2 +1,2 @@
 # curso-vue
-Curso Vue da Cod3r
+Vue Course from Cod3r
